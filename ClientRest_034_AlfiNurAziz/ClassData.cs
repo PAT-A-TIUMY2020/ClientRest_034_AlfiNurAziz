@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using System.Runtime.Serialization;
 using System.Net;
+using static ClientRest_034_AlfiNurAziz.Program;
 
 namespace ClientRest_034_AlfiNurAziz
 {
